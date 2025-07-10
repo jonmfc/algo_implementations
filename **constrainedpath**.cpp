@@ -1,4 +1,4 @@
-```cpp
+
 // Finds the shortest path between two nodes in a graph, subject to must-visit nodes and a maximum cost.
 // By: Jonathan Mitelman
 #include <iostream>
@@ -221,4 +221,3 @@ int main() {
 
     return 0;
 }
-```
