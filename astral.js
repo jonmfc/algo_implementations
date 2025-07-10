@@ -1,4 +1,4 @@
-```javascript
+
 /** A* search algorithm for finding the shortest path between two nodes in a graph.
  * By: Jonathan Mitelman */
 function aStar(graph, start, goal, heuristic) {
@@ -127,4 +127,3 @@ if (typeof require !== 'undefined' && require.main === module) {
     }
 
 }
-```
